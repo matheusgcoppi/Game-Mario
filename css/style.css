@@ -26,7 +26,7 @@
     bottom: 0;
 }
 
-.active-jump {
+.jump {
     animation: marioJump 500ms ease-out;
 }
 
